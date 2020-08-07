@@ -1,0 +1,36 @@
+#sec7
+{
+  background-color:  #112;
+  padding:100px 20px!important;
+
+}
+#sec7 ul
+{
+  list-style: none;
+  padding: 0;
+}
+
+#sec7 a
+{
+  color: white;
+  text-decoration: none;
+  padding:5px 5px;
+}
+
+#sec7 li
+{
+  margin:10px 0;
+}
+
+#sec7 a:hover
+{
+  background-color: #444;
+}
+
+#sec7 input
+{
+  border-radius: 10px;
+  border-style: none;
+  height: 50px;
+  width: 60%;
+}

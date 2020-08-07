@@ -1,0 +1,25 @@
+#sec3
+{
+  padding: 50px;
+}
+
+
+
+.audio
+{
+  width: 300px;
+  margin:20px 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ddd;
+}
+
+.audio img{
+  width: 100%;
+  height: 200px;
+}
+
+.audio-caption
+{
+  padding:0 10px;
+}

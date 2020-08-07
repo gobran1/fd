@@ -1,0 +1,50 @@
+.d-flex
+{
+  display: flex;
+}
+
+.flex-center{
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-layout{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.justify-center
+{
+  justify-content: center;
+}
+
+.flex-1-col .flex-child{
+  width: 100%;
+}
+
+.flex-2-col .flex-child{
+  width: 40%;
+}
+
+.flex-2-col .flex-child div{
+  margin:0 auto;
+}
+
+
+.flex-4-col .flex-child{
+  width:10%;
+}
+
+.order-0{
+  order: 0;
+}
+.order-1{
+  order: 1;
+}
+.order-2{
+  order: 2;
+}
+.order-3{
+  order: 3;
+}

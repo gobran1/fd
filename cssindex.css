@@ -1,0 +1,88 @@
+.flex-3-col .flex-child {
+  width: 33%;
+}
+
+@media (max-width: 600px) {
+  .flex-xs-1-col .flex-child {
+    width: 100% !important;
+  }
+}
+@media (max-width: 960px) {
+  .navbar-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+
+  .hum {
+    display: inline-block;
+  }
+
+  .navbar {
+    display: block;
+  }
+
+  .nav-list {
+    display: none;
+  }
+
+  .nav-list li {
+    display: block;
+    text-align: center;
+    border-top-width: 1px;
+    border-top-style: dotted;
+    border-top-color: #ccc;
+  }
+
+  .nav-btn {
+    display: none !important;
+  }
+
+  section {
+    padding-left: 15vw !important;
+    padding-right: 15vw !important;
+  }
+
+  .text-center-sm {
+    text-align: center;
+  }
+
+  .sec-discription {
+    width: 100%;
+  }
+
+  .center-block {
+    width: 100%;
+  }
+
+  .half-parent-width {
+    width: 100%;
+  }
+
+  .order-sm-0 {
+    order: 0;
+  }
+
+  .order-sm-1 {
+    order: 1;
+  }
+
+  .flex-sm-2-col .flex-child {
+    width: 320px !important;
+  }
+
+  .flex-sm-1-col .flex-child {
+    width: 100% !important;
+  }
+
+  .flex-sm-3-col .flex-child {
+    width: 25% !important;
+  }
+
+  .flex-sm-4-col .flex-child {
+    width: 20% !important;
+  }
+}
+
+/*# sourceMappingURL=cssindex.css.map */

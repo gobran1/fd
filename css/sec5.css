@@ -1,0 +1,24 @@
+#sec5
+{
+  background-color: #196;
+  padding: 100px;
+}
+
+.customer-panel
+{
+  background-color: white;
+  width: fit-content;
+  margin:8px 8px;
+  padding: 8px;
+}
+
+.customer-container
+{
+  width: 100%;
+  margin:70px auto 0 auto;
+  flex-wrap: wrap;
+}
+
+.customer-panel .badge{
+  margin:auto;
+}

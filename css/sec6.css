@@ -1,0 +1,9 @@
+#sec6
+{
+  padding: 100px;
+
+  background-color: lightblue;
+
+  /* clip-path : ellipse(100% 30% at 50% 40%); */
+  /* clip: ellipse(100% 30% at 50% 40%); */
+}

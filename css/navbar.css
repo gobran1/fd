@@ -1,0 +1,44 @@
+.hum{
+  display: none;
+}
+
+.navbar
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:0 10%;
+  border-bottom-style: ridge;
+}
+
+.nav-list li
+{
+  display: inline-block;
+  padding: 10px 10px;
+}
+
+
+.nav-list a
+{
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-btn
+{
+  color: white!important;
+  background-color: green;
+  border-radius: 25px;
+  padding: 10px 10px;
+}
+
+.nav-btn:hover{
+  transform: scale(1.05);
+  transition: all linear 200ms;
+}
+
+.nav-item:hover
+{
+  cursor: pointer;
+  background-color: #eee;
+}
